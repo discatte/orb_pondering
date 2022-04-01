@@ -1,5 +1,5 @@
 // PoVRay 3.7 Scene File " ... .pov"
-// author:  @discatte / @raytracedvibes
+// author:  @galactic_furball (discatte) / @raytracedvibes
 // date: 03/22/2022   
 // desc: An iridescent attempt at bryce3d aesthetics
 //--------------------------------------------------------------------------
